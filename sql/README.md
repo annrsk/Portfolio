@@ -1,13 +1,13 @@
 ```sql
-select city, count(city) from supermarket_sales ss group by ss.city;
+select city, count(city) as cnt_orders from supermarket_sales ss group by ss.city;
 ```
 
 ```sql
-select gender, count(gender) from supermarket_sales ss group by ss.gender;
+select gender, count(gender) as cnt_orders from supermarket_sales ss group by ss.gender;
 ```
 
 ```sql
-select ss."Product line", count(ss."Product line") from supermarket_sales ss group by ss."Product line";
+select ss."Product line", count(ss."Product line") as cnt_orders from supermarket_sales ss group by ss."Product line";
 ```
 
 ```sql
