@@ -1,0 +1,111 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Страница — 1" id="P_8ECuwz2FIVECz7KXrh">
+    <mxGraphModel dx="1148" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OC4H_UbFR2drGqx85BGB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-1" target="OC4H_UbFR2drGqx85BGB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-4" target="OC4H_UbFR2drGqx85BGB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-4" value="Настроено" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="305" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-5" target="OC4H_UbFR2drGqx85BGB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-5" value="Проверка" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="305" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-6" target="OC4H_UbFR2drGqx85BGB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-6" value="Корректировка" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-8" target="OC4H_UbFR2drGqx85BGB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-8" value="Напоминание" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="305" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-10" value="Менеджер настаивает рассписание" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-11" value="Диаграмма состояний расписания" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="10" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-13" value="Мастера сверяются с расписанием,&amp;nbsp;&lt;div&gt;проверяют свой список услуг, рабочие дни&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="230" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-15" value="Если выявлен недочет, менеджер&lt;div&gt;&amp;nbsp;корректирует расписание&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-16" target="OC4H_UbFR2drGqx85BGB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-16" value="Добавление записей" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="305" y="350" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-19" value="Клиенты занимают слоты&lt;div&gt;&amp;nbsp;в расписании мастеров&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-21" value="По настроенному менеджером времени&amp;nbsp;&lt;div&gt;клиенту приходит напоминание о записи&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-22" target="OC4H_UbFR2drGqx85BGB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-22" target="OC4H_UbFR2drGqx85BGB-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-22" value="Время записи" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="305" y="530" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-24" target="OC4H_UbFR2drGqx85BGB-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="680" />
+              <mxPoint x="375" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-24" value="Корректировка" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="610" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OC4H_UbFR2drGqx85BGB-25" target="OC4H_UbFR2drGqx85BGB-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="515" y="680" />
+              <mxPoint x="375" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-25" value="" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="445" y="610" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-27" value="Если клиент не пришел к назначенному&amp;nbsp;&lt;div&gt;времени&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;с ним связывается менеджер&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;и корректирует расписание&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC4H_UbFR2drGqx85BGB-29" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="360" y="730" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
