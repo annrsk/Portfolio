@@ -1,0 +1,37 @@
+services:
+  db:
+    image: postgres:16
+    container_name: savushkin-db
+    environment:
+      POSTGRES_USER: app_user
+      POSTGRES_PASSWORD: app_password
+      POSTGRES_DB: app_db
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U app_user -d app_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  web:
+    build: .
+    container_name: savushkin-web
+    environment:
+      DB_NAME: app_db
+      DB_USER: app_user
+      DB_PASSWORD: app_password
+      DB_HOST: db 
+      DB_PORT: 5432
+      DATABASE_URL: postgresql://app_user:app_password@db:5432/app_db
+    ports:
+      - "8000:8000" 
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:
